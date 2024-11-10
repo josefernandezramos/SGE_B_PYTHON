@@ -1,3 +1,9 @@
+'''
+    1. Comparar 2 números
+Crear dues variables i comparar-les indicant quina és més gran, quina és més petita o si son iguals.
+'''
+
+
 num1 = 5
 num2 = 3
 
