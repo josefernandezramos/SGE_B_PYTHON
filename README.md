@@ -5,5 +5,5 @@
 
 ###diagrama de flujo for y while
 
-![for](Activitat3/IMG/for.png)
-![while](Activitat3/IMG/while.png)
+![for](/Activitat3/IMG/for.png)
+![while](/Activitat3/IMG/while.png)
